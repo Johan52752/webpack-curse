@@ -17,7 +17,6 @@ module.exports = {
         // EL NOMBRE DEL ARCHIVO FINAL,
         assetModuleFilename: 'assets/images/[hash][ext]'
     },
-    watch:true,
     optimization:{
         minimize:true,
         minimizer:[
